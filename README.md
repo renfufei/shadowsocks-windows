@@ -4,4 +4,4 @@ Removed according to regulations.
 
 查看法 律条文请跳转到百度: []()
 
-请您 [遵守法律规定](https://github.com/renfufei/shadowsocks-windows/releases)!
+请您 [遵守法律规定](https://github.com/shadowsocks/shadowsocks-windows/releases)!
